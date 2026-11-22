@@ -1,0 +1,11 @@
+{
+  "org": "docopt",
+  "repo": "docopt.rs",
+  "versions": [
+    {
+      "commit": "1a02d9760417429688e76ed278707e2872d011d1",
+      "tag": "version.1",
+      "parsed_at": "2026-11-22T09:54:25.616479+00:00"
+    }
+  ]
+}
