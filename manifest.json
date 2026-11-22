@@ -46,6 +46,45 @@
       ],
       "ast": [
         "aggregate/ast/1a02d9760417429688e76ed278707e2872d011d1/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1a02d9760417429688e76ed278707e2872d011d1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "lazy_static",
+          "ecosystem": "CARGO",
+          "version": "0.2",
+          "githubOrg": "rust-lang-nursery",
+          "githubRepo": "lazy-static.rs",
+          "githubUrl": "https://github.com/rust-lang-nursery/lazy-static.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "regex",
+          "ecosystem": "CARGO",
+          "version": "0.1",
+          "githubOrg": "rust-lang",
+          "githubRepo": "regex",
+          "githubUrl": "https://github.com/rust-lang/regex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rustc-serialize",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rustc-serialize",
+          "githubUrl": "https://github.com/rust-lang/rustc-serialize",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "strsim",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rapidfuzz",
+          "githubRepo": "strsim-rs",
+          "githubUrl": "https://github.com/rapidfuzz/strsim-rs",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
