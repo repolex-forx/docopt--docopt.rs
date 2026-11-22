@@ -85,7 +85,9 @@
           "githubUrl": "https://github.com/rapidfuzz/strsim-rs",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/1a02d9760417429688e76ed278707e2872d011d1/chunk-001.nq.gz",
+      "dep": "dep/1a02d9760417429688e76ed278707e2872d011d1.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
